@@ -3,10 +3,10 @@
 ##What is fintech?##
 Fintech is technology which is used in financial areas.
 
-'''python
+```python
 import numpy as np
 a = np.random.randint(1, 9, 3)
-'''
+```
 
 ---
 
