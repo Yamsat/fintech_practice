@@ -1,7 +1,7 @@
-#Fintech#
+# Fintech
 
-##What is fintech?##
-Fintech is technology which is used in financial areas.
+## What is fintech?
+**Fintech** is technology which is used in financial areas.
 
 ```python
 import numpy as np
